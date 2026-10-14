@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*-preview.png
+preview.png
+.DS_Store
+*.tmp
+.local/

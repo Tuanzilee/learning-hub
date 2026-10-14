@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "week1Monday": "2026-09-14",
+    "weeks": 18
+  },
+  "courses": [
+    {
+      "name": "外國語文（基礎德文）",
+      "weekday": 2,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "課程介紹"
+        },
+        {
+          "n": 2,
+          "topic": "你好，我的名字是……",
+          "detail": "Lektion 1"
+        },
+        {
+          "n": 3,
+          "topic": "你好，我的名字是……",
+          "detail": "Lektion 1"
+        },
+        {
+          "n": 4,
+          "topic": "你好，我的名字是……",
+          "detail": "Lektion 1"
+        },
+        {
+          "n": 5,
+          "topic": "你好，我的名字是……",
+          "detail": "Lektion 1"
+        },
+        {
+          "n": 6,
+          "topic": "我的家庭",
+          "detail": "Lektion 2"
+        },
+        {
+          "n": 7,
+          "topic": "我的家庭",
+          "detail": "Lektion 2"
+        },
+        {
+          "n": 8,
+          "topic": "期中考週",
+          "detail": "Lektion 1-2",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "德語電影欣賞"
+        },
+        {
+          "n": 10,
+          "topic": "我的家庭",
+          "detail": "Lektion 2"
+        },
+        {
+          "n": 11,
+          "topic": "我的家庭",
+          "detail": "Lektion 2"
+        },
+        {
+          "n": 12,
+          "topic": "飲食",
+          "detail": "Lektion 3"
+        },
+        {
+          "n": 13,
+          "topic": "飲食",
+          "detail": "Lektion 3"
+        },
+        {
+          "n": 14,
+          "topic": "飲食",
+          "detail": "Lektion 3"
+        },
+        {
+          "n": 15,
+          "topic": "飲食",
+          "detail": "Lektion 3"
+        },
+        {
+          "n": 16,
+          "topic": "期末考週",
+          "detail": "Lektion 2-3",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習週",
+          "detail": "複習本學期教過的三個主題內容",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習週",
+          "detail": "綜合本學期三個主題，以德文寫一篇兩百字自我或他人介紹（成果納入學期總成績）",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱"
+    },
+    {
+      "name": "認知神經科學導論",
+      "weekday": 4,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "01_Introduction to cognitive neuroscience",
+          "detail": "實體 ES801。複習測驗① Ch01"
+        },
+        {
+          "n": 2,
+          "topic": "02_Introducing the brain",
+          "detail": "同步 Teams"
+        },
+        {
+          "n": 3,
+          "topic": "03_The electrophysiological brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 4,
+          "topic": "04_The imaged brain / 05_The lesion brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 5,
+          "topic": "05_The lesion brain ＋ Talk",
+          "detail": "實體。賴姿伶老師演講。複習測驗② Ch02/03/04"
+        },
+        {
+          "n": 6,
+          "topic": "07_The seeing brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 7,
+          "topic": "08_The hearing brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 8,
+          "topic": "期中考",
+          "detail": "Midterm，實體",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "09_The attending brain",
+          "detail": "同步 Teams"
+        },
+        {
+          "n": 10,
+          "topic": "11_The remembering brain",
+          "detail": "實體。複習測驗③ Ch09"
+        },
+        {
+          "n": 11,
+          "topic": "15_The executive brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 12,
+          "topic": "13_The literate brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 13,
+          "topic": "12_The speaking brain",
+          "detail": "實體。複習測驗④ Ch11/13/15"
+        },
+        {
+          "n": 14,
+          "topic": "16_The social and emotional brain",
+          "detail": "非同步"
+        },
+        {
+          "n": 15,
+          "topic": "Question（考前釐清）",
+          "detail": "非同步"
+        },
+        {
+          "n": 16,
+          "topic": "期末考",
+          "detail": "Final，實體",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "Reflection",
+          "detail": "非同步",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "Reflection",
+          "detail": "非同步",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "交接檔",
+      "updated": "2026-09-23"
+    },
+    {
+      "name": "社會學",
+      "weekday": 3,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "說明、分配週"
+        },
+        {
+          "n": 2,
+          "topic": "『社會學與台灣社會』第一、二章"
+        },
+        {
+          "n": 3,
+          "topic": "第三、四章"
+        },
+        {
+          "n": 4,
+          "topic": "第五、六章"
+        },
+        {
+          "n": 5,
+          "topic": "第七、八章"
+        },
+        {
+          "n": 6,
+          "topic": "第九、十章"
+        },
+        {
+          "n": 7,
+          "topic": "第十一、十二章"
+        },
+        {
+          "n": 8,
+          "topic": "第十三、十四章"
+        },
+        {
+          "n": 9,
+          "topic": "第十五、十六章"
+        },
+        {
+          "n": 10,
+          "topic": "第十七、十八章"
+        },
+        {
+          "n": 11,
+          "topic": "第十九、二十章"
+        },
+        {
+          "n": 12,
+          "topic": "『平台資本主義』序到引言"
+        },
+        {
+          "n": 13,
+          "topic": "第一章"
+        },
+        {
+          "n": 14,
+          "topic": "第二章"
+        },
+        {
+          "n": 15,
+          "topic": "第三章"
+        },
+        {
+          "n": 16,
+          "topic": "期末考：筆試",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09"
+    },
+    {
+      "name": "心理學實驗法",
+      "weekday": 1,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "課程介紹",
+          "detail": "Ch1"
+        },
+        {
+          "n": 2,
+          "topic": "Ch2 Ch3"
+        },
+        {
+          "n": 3,
+          "topic": "教師節",
+          "kind": "holiday"
+        },
+        {
+          "n": 4,
+          "topic": "Ch3 Ch4"
+        },
+        {
+          "n": 5,
+          "topic": "Ch5 Ch6"
+        },
+        {
+          "n": 6,
+          "topic": "Ch6 Ch7"
+        },
+        {
+          "n": 7,
+          "topic": "光復節補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 8,
+          "topic": "期中考",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "Ch8"
+        },
+        {
+          "n": 10,
+          "topic": "Ch9 Ch10"
+        },
+        {
+          "n": 11,
+          "topic": "Ch10"
+        },
+        {
+          "n": 12,
+          "topic": "Ch11"
+        },
+        {
+          "n": 13,
+          "topic": "校慶補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 14,
+          "topic": "Ch12"
+        },
+        {
+          "n": 15,
+          "topic": "Ch13 Ch14"
+        },
+        {
+          "n": 16,
+          "topic": "期末考",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習週一",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習週二",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09"
+    },
+    {
+      "name": "心理測驗",
+      "weekday": 5,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "導論"
+        },
+        {
+          "n": 2,
+          "topic": "中秋節放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 3,
+          "topic": "心理構念界定與測量",
+          "detail": "理解測驗 I"
+        },
+        {
+          "n": 4,
+          "topic": "國慶日放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 5,
+          "topic": "量尺轉換與常模"
+        },
+        {
+          "n": 6,
+          "topic": "信度",
+          "detail": "理解測驗 II"
+        },
+        {
+          "n": 7,
+          "topic": "信度 II ＆ 測量效度"
+        },
+        {
+          "n": 8,
+          "topic": "決策效度",
+          "detail": "理解測驗 III"
+        },
+        {
+          "n": 9,
+          "topic": "試題分析",
+          "detail": "作業 I"
+        },
+        {
+          "n": 10,
+          "topic": "期中考筆試",
+          "kind": "exam"
+        },
+        {
+          "n": 11,
+          "topic": "小組心測實作報告說明、諮詢與討論"
+        },
+        {
+          "n": 12,
+          "topic": "報告準備週，不上課",
+          "kind": "holiday"
+        },
+        {
+          "n": 13,
+          "topic": "小組心理測驗實作口頭報告 I",
+          "kind": "exam"
+        },
+        {
+          "n": 14,
+          "topic": "小組心理測驗實作口頭報告 II",
+          "kind": "exam"
+        },
+        {
+          "n": 15,
+          "topic": "行憲紀念日放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 16,
+          "topic": "放假",
+          "detail": "課綱寫「國慶日」但日期為 1/1，應為元旦誤植",
+          "kind": "holiday"
+        },
+        {
+          "n": 17,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09"
+    }
+  ]
+}

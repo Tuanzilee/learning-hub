@@ -6,7 +6,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
-SYLLABUS = Path('/Users/tuanzi/Desktop/course/data/syllabus.json')
+SYLLABUS = ROOT / 'syllabus.json'
 SELECTED = {
     '外國語文（基礎德文）': '德文複習',
     '心理學實驗法': '心理學實驗法',
@@ -16,8 +16,8 @@ SELECTED = {
 }
 
 
-def build(today, now):
-    syllabus = json.loads(SYLLABUS.read_text())
+def build(today, now, syllabus_path=SYLLABUS):
+    syllabus = json.loads(syllabus_path.read_text())
     assessments = json.loads((ROOT / 'assessments.json').read_text())
     start = date.fromisoformat(syllabus['meta']['week1Monday'])
     week = (today - start).days // 7 + 1
@@ -53,10 +53,11 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--date', help='指定日期供核對，格式 YYYY-MM-DD')
     parser.add_argument('--check', action='store_true', help='僅檢查，不寫入檔案')
+    parser.add_argument('--syllabus', type=Path, default=SYLLABUS, help='課綱來源，預設為專案內的公開課綱摘要')
     args = parser.parse_args()
     now = datetime.now(ZoneInfo('Asia/Taipei'))
     today = date.fromisoformat(args.date) if args.date else now.date()
-    result = build(today, now)
+    result = build(today, now, args.syllabus)
     if not args.check:
         target = ROOT / 'dist/progress.json'
         temp = target.with_suffix('.tmp')

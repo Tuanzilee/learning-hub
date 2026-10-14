@@ -1,19 +1,27 @@
 # 我的學習入口
 
-六個網站：德文、心理學實驗法、心理測驗、認知神經科學、學分儀表板、社會學報告。無框架、無相依套件，手機單欄、寬螢幕雙欄。
+線上網址：https://tuanzilee.github.io/learning-hub/
 
-## 進度資料
+六個網站入口：德文、心理學實驗法、心理測驗、認知神經科學、畢業學分儀表板、社會學報告。手機單欄、寬螢幕雙欄。
 
-- `dist/index.html`：入口頁。
-- `dist/progress.js`：讀取進度、以台灣日期顯示評量倒數；每分鐘與回到頁面時重新讀取。
-- `assessments.json`：已核對的評量清單，最新公告與使用者確認優先。日期或範圍改動需明確來源。
-- `update_progress.py`：讀取本機 `/Users/tuanzi/Desktop/course/data/syllabus.json` 與評量清單，產出 `dist/progress.json`。不讀取或發布個人學習紀錄。
-- 課程週次採課綱週一 2026-09-14 起算。本週進度是課綱預定進度，不代表實際完成狀態。
-- 初始評量來源：`100_Todo/projects/2026-10-14_期中考與作業期程比對.md`；德文考試日期依課綱週次換算。
+## 課程與評量進度
 
-每天台灣时间凌晨 02:00 的 Codex 排程更新本機版本；不要擅自建立公開 repo 或推送。新入口頁與定期公開部署需另取得 hai 授權。
+- `syllabus.json`：五門課的課綱摘要，只含課名、授課星期、主題與週次；不包含個人學習紀錄。
+- `assessments.json`：已核對的評量日期，公告與使用者確認優先。未確認的範圍／時刻須標明。
+- `update_progress.py`：產生 `dist/progress.json`，以台灣日期計算週次。
+- `dist/progress.js`：顯示本週課綱進度與評量倒數，每分鐘及返回頁面時讀取新資料。
+- `.github/workflows/pages.yml`：push 或手動執行時部署；另在每天台灣時間凌晨 02:00 自動產生進度並部署。GitHub 排程可能排隊延遲，頁面顯示實際更新時間。
 
-執行：`python3 update_progress.py`。
+課綱第一週起於 2026-09-14。本週主題是預定進度，不代表已實際授課或個人完成狀態。初始評量核對至 2026-10-14，德文考試日期依課綱週次換算；自動更新日期與週次不代表重新查閱老師公告。
+
+## 本機使用
+
+產生進度：`python3 update_progress.py`。
+
+指定另一份課綱：`python3 update_progress.py --syllabus /path/to/syllabus.json`。
+
 預覽：`python3 -m http.server 8770 --bind 127.0.0.1 --directory dist`。
 
-已核對六個連結與日期／週次邊界；尚未公開部署。
+## 維護授權
+
+hai 已確認首次公開發布。日後改動原始碼、同步新公告或資料並 push 前，仍須先取得 hai 的當次確認；GitHub 已設定的每日定期部署只重新產生既有課綱／評量清單的日期進度，不修改遠端原始碼，也不增加公開內容來源。
