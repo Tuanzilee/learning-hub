@@ -156,12 +156,12 @@
         {
           "n": 10,
           "topic": "11_The remembering brain",
-          "detail": "實體。複習測驗③ Ch09"
+          "detail": "原訂 11/19 實體課移至 11/26；本週授課方式、複習測驗安排待平台確認（10/15 課堂紀錄）"
         },
         {
           "n": 11,
-          "topic": "15_The executive brain",
-          "detail": "非同步"
+          "topic": "11_The remembering brain / 15_The executive brain",
+          "detail": "11/26 改為實體，記憶與執行功能（10/15 課堂紀錄；尚待平台核對）"
         },
         {
           "n": 12,
@@ -203,7 +203,8 @@
         }
       ],
       "source": "交接檔",
-      "updated": "2026-09-23"
+      "updated": "2026-10-21",
+      "scheduleChangeSource": "cogneuro-review/CLAUDE.md 2026-10-21 更新；10/15 課堂逐字稿 00:06:38–00:07:55（未核聽）"
     },
     {
       "name": "社會學",

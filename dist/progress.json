@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-14T11:09+08:00",
-  "asOf": "2026-10-14",
+  "generatedAt": "2026-10-22T02:04+08:00",
+  "asOf": "2026-10-22",
   "timezone": "Asia/Taipei",
-  "week": 5,
+  "week": 6,
   "totalWeeks": 18,
   "verifiedOn": "2026-10-14",
   "courses": [
     {
       "name": "德文複習",
-      "date": "2026-10-13",
-      "topic": "你好，我的名字是……",
-      "detail": "Lektion 1",
+      "date": "2026-10-20",
+      "topic": "我的家庭",
+      "detail": "Lektion 2",
       "source": "課綱進度",
       "sourceUpdated": ""
     },
     {
       "name": "心理學實驗法",
-      "date": "2026-10-12",
-      "topic": "Ch5 Ch6",
+      "date": "2026-10-19",
+      "topic": "Ch6 Ch7",
       "detail": "",
       "source": "課綱進度",
       "sourceUpdated": "2026-09"
     },
     {
       "name": "心理測驗",
-      "date": "2026-10-16",
-      "topic": "量尺轉換與常模",
-      "detail": "",
+      "date": "2026-10-23",
+      "topic": "信度",
+      "detail": "理解測驗 II",
       "source": "課綱進度",
       "sourceUpdated": "2026-09"
     },
     {
       "name": "認知神經科學",
-      "date": "2026-10-15",
-      "topic": "05_The lesion brain ＋ Talk",
-      "detail": "實體。賴姿伶老師演講。複習測驗② Ch02/03/04",
+      "date": "2026-10-22",
+      "topic": "07_The seeing brain",
+      "detail": "非同步",
       "source": "課堂更新",
-      "sourceUpdated": "2026-09-23"
+      "sourceUpdated": "2026-10-21"
     },
     {
       "name": "社會學報告",
-      "date": "2026-10-14",
-      "topic": "第七、八章",
+      "date": "2026-10-21",
+      "topic": "第九、十章",
       "detail": "",
       "source": "課綱進度",
       "sourceUpdated": "2026-09"
@@ -59,7 +59,15 @@
       "date": "2026-10-23",
       "course": "心理測驗",
       "title": "理解測驗 II",
-      "detail": "範圍待當週說明確認"
+      "detail": "課堂摘要列第五、六章；尚待老師公告核對",
+      "source": "psychtest-review/CLAUDE.md 2026-10-21 更新；10/16 Plaud 作業摘要，完整逐字稿只讀到預告範圍與公告已發布，未見章號原句"
+    },
+    {
+      "date": "2026-10-29",
+      "course": "認知神經科學",
+      "title": "Ch7 學習截止",
+      "detail": "10/15 課堂紀錄；精確時刻與繳交項目待平台核對",
+      "source": "10/15 課堂逐字稿 00:01:47：第七章截止二十九號（未核聽）"
     },
     {
       "date": "2026-11-02",
@@ -77,7 +85,8 @@
       "date": "2026-11-05",
       "course": "認知神經科學",
       "title": "期中考",
-      "detail": "精確範圍待確認"
+      "detail": "範圍至 Ch8 聽覺（10/21 已確認）；含申論題，演講是否納入待確認",
+      "source": "cogneuro-review/CLAUDE.md：2026-10-21 hai 確認範圍；10/15 課堂逐字稿 00:08:48（未核聽）"
     },
     {
       "date": "2026-11-06",
