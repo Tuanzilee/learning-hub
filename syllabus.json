@@ -1,7 +1,9 @@
 {
   "meta": {
     "week1Monday": "2026-09-14",
-    "weeks": 18
+    "weeks": 18,
+    "rosterSource": "2026-10-27 TronClass 1151進行中課程清單，含導師時間；不把僅存在舊本機資料的科目直接當成本學期修課",
+    "announcementsCheckedOn": "2026-10-27"
   },
   "courses": [
     {
@@ -101,7 +103,198 @@
           "kind": "selfstudy"
         }
       ],
-      "source": "課綱"
+      "source": "課綱",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/402456/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "心理學實驗法",
+      "weekday": 1,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "課程介紹",
+          "detail": "Ch1"
+        },
+        {
+          "n": 2,
+          "topic": "Ch2 Ch3"
+        },
+        {
+          "n": 3,
+          "topic": "教師節",
+          "kind": "holiday"
+        },
+        {
+          "n": 4,
+          "topic": "Ch3 Ch4"
+        },
+        {
+          "n": 5,
+          "topic": "Ch5 Ch6"
+        },
+        {
+          "n": 6,
+          "topic": "Ch6 Ch7"
+        },
+        {
+          "n": 7,
+          "topic": "光復節補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 8,
+          "topic": "期中考",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "Ch8"
+        },
+        {
+          "n": 10,
+          "topic": "Ch9 Ch10"
+        },
+        {
+          "n": 11,
+          "topic": "Ch10"
+        },
+        {
+          "n": 12,
+          "topic": "Ch11"
+        },
+        {
+          "n": 13,
+          "topic": "校慶補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 14,
+          "topic": "Ch12"
+        },
+        {
+          "n": 15,
+          "topic": "Ch13 Ch14"
+        },
+        {
+          "n": 16,
+          "topic": "期末考",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習週一",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習週二",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389817/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "心理測驗",
+      "weekday": 5,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "導論"
+        },
+        {
+          "n": 2,
+          "topic": "中秋節放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 3,
+          "topic": "心理構念界定與測量",
+          "detail": "理解測驗 I"
+        },
+        {
+          "n": 4,
+          "topic": "國慶日放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 5,
+          "topic": "量尺轉換與常模"
+        },
+        {
+          "n": 6,
+          "topic": "颱風停課；信度與理解測驗 II 順延",
+          "detail": "10/23 公告；新日期待釐清"
+        },
+        {
+          "n": 7,
+          "topic": "信度 II ＆ 測量效度",
+          "detail": "颱風後進度有調整，公告附圖未能讀取，本項仍列原課綱待核對"
+        },
+        {
+          "n": 8,
+          "topic": "決策效度",
+          "detail": "理解測驗 III；颱風後進度有調整，公告附圖未能讀取，本項仍列原課綱待核對"
+        },
+        {
+          "n": 9,
+          "topic": "試題分析",
+          "detail": "作業 I；颱風後進度有調整，公告附圖未能讀取，本項仍列原課綱待核對"
+        },
+        {
+          "n": 10,
+          "topic": "期中考筆試",
+          "kind": "exam"
+        },
+        {
+          "n": 11,
+          "topic": "小組心測實作報告說明、諮詢與討論"
+        },
+        {
+          "n": 12,
+          "topic": "報告準備週，不上課",
+          "kind": "holiday"
+        },
+        {
+          "n": 13,
+          "topic": "小組心理測驗實作口頭報告 I",
+          "kind": "exam"
+        },
+        {
+          "n": 14,
+          "topic": "小組心理測驗實作口頭報告 II",
+          "kind": "exam"
+        },
+        {
+          "n": 15,
+          "topic": "行憲紀念日放假",
+          "kind": "holiday"
+        },
+        {
+          "n": 16,
+          "topic": "放假",
+          "detail": "課綱寫「國慶日」但日期為 1/1，應為元旦誤植",
+          "kind": "holiday"
+        },
+        {
+          "n": 17,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "課綱未列",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "10/23 課程與理解測驗因颱風順延。公告寫「下週五(11/30)」日期矛盾，待確認；期中考維持原日期。"
     },
     {
       "name": "認知神經科學導論",
@@ -204,7 +397,9 @@
       ],
       "source": "交接檔",
       "updated": "2026-10-21",
-      "scheduleChangeSource": "cogneuro-review/CLAUDE.md 2026-10-21 更新；10/15 課堂逐字稿 00:06:38–00:07:55（未核聽）"
+      "scheduleChangeSource": "cogneuro-review/CLAUDE.md 2026-10-21 更新；10/15 課堂逐字稿 00:06:38–00:07:55（未核聽）",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     },
     {
       "name": "社會學",
@@ -287,42 +482,42 @@
         }
       ],
       "source": "課綱更新",
-      "updated": "2026-09"
+      "updated": "2026-09",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389814/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "10/7 公告：期中報告 4,000–5,000 字，11/17 截止；未公告精確時刻。"
     },
     {
-      "name": "心理學實驗法",
-      "weekday": 1,
+      "name": "人格心理學",
+      "weekday": 2,
       "weeks": [
         {
           "n": 1,
-          "topic": "課程介紹",
-          "detail": "Ch1"
+          "topic": "課程介紹、導論與概述"
         },
         {
           "n": 2,
-          "topic": "Ch2 Ch3"
+          "topic": "性格的科學研究"
         },
         {
           "n": 3,
-          "topic": "教師節",
-          "kind": "holiday"
+          "topic": "心理動力論"
         },
         {
           "n": 4,
-          "topic": "Ch3 Ch4"
+          "topic": "心理動力論"
         },
         {
           "n": 5,
-          "topic": "Ch5 Ch6"
+          "topic": "現象學理論取向"
         },
         {
           "n": 6,
-          "topic": "Ch6 Ch7"
+          "topic": "現象學理論取向"
         },
         {
           "n": 7,
-          "topic": "光復節補假",
-          "kind": "holiday"
+          "topic": "特質論"
         },
         {
           "n": 8,
@@ -331,19 +526,112 @@
         },
         {
           "n": 9,
-          "topic": "Ch8"
+          "topic": "性格的生物基礎"
         },
         {
           "n": 10,
-          "topic": "Ch9 Ch10"
+          "topic": "行為主義及學習取向"
         },
         {
           "n": 11,
-          "topic": "Ch10"
+          "topic": "認知取向"
         },
         {
           "n": 12,
-          "topic": "Ch11"
+          "topic": "社會認知論"
+        },
+        {
+          "n": 13,
+          "topic": "分組討論"
+        },
+        {
+          "n": 14,
+          "topic": "分組討論",
+          "detail": "社會認知論的應用"
+        },
+        {
+          "n": 15,
+          "topic": "我的人格理論",
+          "detail": "期刊個人書面報告 12/25 12:00 前繳交"
+        },
+        {
+          "n": 16,
+          "topic": "期末考",
+          "detail": "個人人格理論",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課綱更新",
+      "updated": "2026-09-14",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/395112/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "公告目前只有分組名單提醒；考試日期仍依 9/15 版課綱，範圍待老師確認。"
+    },
+    {
+      "name": "TRX 懸吊訓練",
+      "weekday": 1,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 2,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 3,
+          "topic": "教師節",
+          "kind": "holiday"
+        },
+        {
+          "n": 4,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 5,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 6,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 7,
+          "topic": "光復節補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 8,
+          "topic": "期中測驗",
+          "detail": "課綱列測驗週；老師公告未列確切日期，待確認",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 10,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 11,
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 12,
+          "topic": "TRX 懸吊訓練"
         },
         {
           "n": 13,
@@ -352,125 +640,345 @@
         },
         {
           "n": 14,
-          "topic": "Ch12"
+          "topic": "TRX 懸吊訓練"
         },
         {
           "n": 15,
-          "topic": "Ch13 Ch14"
+          "topic": "TRX 懸吊訓練"
+        },
+        {
+          "n": 16,
+          "topic": "期末測驗",
+          "detail": "課綱列測驗週；老師公告未列確切日期，待確認",
+          "kind": "exam"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習週",
+          "kind": "selfstudy"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習週",
+          "kind": "selfstudy"
+        }
+      ],
+      "source": "課堂說明",
+      "updated": "2026-09-30",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/391296/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "公告規範列期中、期末各 20%；未列確切日期。自主學習第17、18週作業未交視同該週曠課。"
+    },
+    {
+      "name": "人生哲學（上）",
+      "weekday": 1,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "課程介紹",
+          "detail": "課程導論、課程大綱、課程規範"
+        },
+        {
+          "n": 2,
+          "topic": "哲學思維與方法",
+          "detail": "哲學是什麼及定位／思維方法如何幫助人生議題的探討"
+        },
+        {
+          "n": 3,
+          "topic": "教師節",
+          "kind": "holiday"
+        },
+        {
+          "n": 4,
+          "topic": "認識自我(一)",
+          "detail": "探索自我／認識人的本質與定義"
+        },
+        {
+          "n": 5,
+          "topic": "認識自我(二)",
+          "detail": "接納自我／整合反省「探索自我」及「人的本質與定義」"
+        },
+        {
+          "n": 6,
+          "topic": "與他人的關係(一)",
+          "detail": "與他人互動的重要性"
+        },
+        {
+          "n": 7,
+          "topic": "台灣光復日補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 8,
+          "topic": "與他人的關係(二)",
+          "detail": "影響互動關係的重要元素"
+        },
+        {
+          "n": 9,
+          "topic": "婚姻與家庭",
+          "detail": "1. 婚姻與家庭的意義　2. 婚姻、家庭價值的混淆所產生的危機　3. 婚姻生活的經營，家人相處的智慧　4. 重視性別議題在婚姻建構中的重要性"
+        },
+        {
+          "n": 10,
+          "topic": "社會正義",
+          "detail": "正義的意涵／幾個正義思維介紹"
+        },
+        {
+          "n": 11,
+          "topic": "環境變遷與發展",
+          "detail": "體認環境變遷中人與自然的關係"
+        },
+        {
+          "n": 12,
+          "topic": "美感與生活品味",
+          "detail": "理解美、美感與生活品味的意涵"
+        },
+        {
+          "n": 13,
+          "topic": "生與死",
+          "detail": "理解生命的限度與超越"
+        },
+        {
+          "n": 14,
+          "topic": "校慶補假",
+          "kind": "holiday"
+        },
+        {
+          "n": 15,
+          "topic": "宗教與信仰",
+          "detail": "認識宗教經驗的意義並體驗信仰對人生的重要性、瞭解天主教與多元的宗教文化"
+        },
+        {
+          "n": 16,
+          "topic": "建立整全的人生觀",
+          "detail": "認識不同的人生觀並建立真善美聖的幸福人生"
+        },
+        {
+          "n": 17,
+          "topic": "自主學習週＋短影英語二行詩比賽",
+          "detail": "團隊作業，主題與生命教育、真善美相關"
+        },
+        {
+          "n": 18,
+          "topic": "自主學習週＋短影英語二行詩比賽",
+          "detail": "團隊作業，接續第 17 週"
+        }
+      ],
+      "source": "課堂說明",
+      "updated": "2026-09-30",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/391806/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "10/15 公告為擬案：短片與二行詩可選擇參與，另有替代彈性作業待命題；不視為所有人的硬性繳交要求。"
+    },
+    {
+      "name": "AI時代的AI心理學應用",
+      "weekday": 4,
+      "weeks": [
+        {
+          "n": 1,
+          "topic": "課程介紹與協同學習結構",
+          "detail": "ES801 面授"
+        },
+        {
+          "n": 2,
+          "topic": "認識 Machine Learning-based AI",
+          "detail": "4.5 小時，非同步 Self-Paced"
+        },
+        {
+          "n": 3,
+          "topic": "認識 Generative AI",
+          "detail": "1.5 小時，非同步"
+        },
+        {
+          "n": 4,
+          "topic": "AI 素養(Fluency)與 4D 框架",
+          "detail": "同步 Teams"
+        },
+        {
+          "n": 5,
+          "topic": "善用 Gemini Notebook 自主學習",
+          "detail": "同步 Teams＋非同步"
+        },
+        {
+          "n": 6,
+          "topic": "負責任 AI 使用與風險合規",
+          "detail": "非同步 Self-Regulated Learning"
+        },
+        {
+          "n": 7,
+          "topic": "AI 影響與展望",
+          "detail": "含 Agentic AI"
+        },
+        {
+          "n": 8,
+          "topic": "期中考 ＋ 自主學習專案 1",
+          "detail": "ES801 面授",
+          "kind": "exam"
+        },
+        {
+          "n": 9,
+          "topic": "AI Python for Beginner (1)",
+          "detail": "同步 Teams，Colab 實作"
+        },
+        {
+          "n": 10,
+          "topic": "AI Python for Beginner (2)"
+        },
+        {
+          "n": 11,
+          "topic": "AI Python for Beginner (3)"
+        },
+        {
+          "n": 12,
+          "topic": "AI Python for Beginner (4)"
+        },
+        {
+          "n": 13,
+          "topic": "認識 AI 輔助量化研究入門"
+        },
+        {
+          "n": 14,
+          "topic": "認識 AI 輔助質性研究入門",
+          "detail": "心理×AI 研究觀摩：教師研究團隊分享"
+        },
+        {
+          "n": 15,
+          "topic": "心理×AI 研究觀摩：自主學習專案 2",
+          "detail": "ES801 面授"
         },
         {
           "n": 16,
           "topic": "期末考",
+          "detail": "筆試＋上機考，LE401(32人) / SF340(28人)",
           "kind": "exam"
         },
         {
           "n": 17,
-          "topic": "自主學習週一",
+          "topic": "彈性多元學習週",
           "kind": "selfstudy"
         },
         {
           "n": 18,
-          "topic": "自主學習週二",
+          "topic": "彈性多元學習週",
           "kind": "selfstudy"
         }
       ],
-      "source": "課綱更新",
-      "updated": "2026-09"
+      "source": "課綱更新＋交接檔",
+      "updated": "2026-09",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389808/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "10/17 起互評改為每人評兩份作業；10/21 公告要求圖文合併單一檔案，一次繳交。"
     },
     {
-      "name": "心理測驗",
-      "weekday": 5,
+      "name": "電腦應用",
+      "weekday": 2,
       "weeks": [
         {
           "n": 1,
-          "topic": "導論"
+          "topic": "單元一：資料分析原理",
+          "detail": "1-1 資料是什麼／1-2 資料分析原理"
         },
         {
           "n": 2,
-          "topic": "中秋節放假",
-          "kind": "holiday"
+          "topic": "單元一：資料分析原理",
+          "detail": "1-3 搜集資料工具軟體／1-4 定義資料的重要性"
         },
         {
           "n": 3,
-          "topic": "心理構念界定與測量",
-          "detail": "理解測驗 I"
+          "topic": "單元一：資料分析原理",
+          "detail": "1-5 資料類型介紹／1-6 各種檔案格式"
         },
         {
           "n": 4,
-          "topic": "國慶日放假",
-          "kind": "holiday"
+          "topic": "單元二：資料視覺化概述",
+          "detail": "2-1 為什麼要視覺化／2-2 視覺化的基本要素"
         },
         {
           "n": 5,
-          "topic": "量尺轉換與常模"
+          "topic": "單元二：資料視覺化概述",
+          "detail": "2-3 圖表製作的基本規則／2-4 資料科學的色彩原理／2-5 圖表的誤導與暗示"
         },
         {
           "n": 6,
-          "topic": "信度",
-          "detail": "理解測驗 II"
+          "topic": "單元三：量化資料蒐集與分析",
+          "detail": "3-0 安裝 Power BI／3-1 資料的準備整理"
         },
         {
           "n": 7,
-          "topic": "信度 II ＆ 測量效度"
+          "topic": "單元三：量化資料蒐集與分析",
+          "detail": "3-2 視覺化圖表案例探討／3-3 視覺化圖表案例實作"
         },
         {
           "n": 8,
-          "topic": "決策效度",
-          "detail": "理解測驗 III"
+          "topic": "單元三：量化資料蒐集與分析",
+          "detail": "3-3 視覺化圖表案例實作"
         },
         {
           "n": 9,
-          "topic": "試題分析",
-          "detail": "作業 I"
+          "topic": "EWANT 課程學習；不另辦考試",
+          "kind": "class",
+          "detail": "TronClass 公告優先於原課綱；完成時程未公告"
         },
         {
           "n": 10,
-          "topic": "期中考筆試",
-          "kind": "exam"
+          "topic": "單元四：質化資料蒐集與分析",
+          "detail": "4-1 資料的準備整理／4-2 視覺化圖表案例探討"
         },
         {
           "n": 11,
-          "topic": "小組心測實作報告說明、諮詢與討論"
+          "topic": "單元四：質化資料蒐集與分析",
+          "detail": "4-3 視覺化圖表案例實作"
         },
         {
           "n": 12,
-          "topic": "報告準備週，不上課",
-          "kind": "holiday"
+          "topic": "單元四：質化資料蒐集與分析",
+          "detail": "4-3 視覺化圖表案例實作"
         },
         {
           "n": 13,
-          "topic": "小組心理測驗實作口頭報告 I",
-          "kind": "exam"
+          "topic": "單元五：政府開放資料平台資料案例",
+          "detail": "5-1 如何使用政府開放資料平台／5-2 資料的準備整理"
         },
         {
           "n": 14,
-          "topic": "小組心理測驗實作口頭報告 II",
-          "kind": "exam"
+          "topic": "單元五：政府開放資料平台資料案例",
+          "detail": "5-3 視覺化圖表案例探討／5-4 實作"
         },
         {
           "n": 15,
-          "topic": "行憲紀念日放假",
-          "kind": "holiday"
+          "topic": "單元六：零售業訂單資料案例",
+          "detail": "6-1 資料的準備整理／6-2 關聯資料模型、實作"
         },
         {
           "n": 16,
-          "topic": "放假",
-          "detail": "課綱寫「國慶日」但日期為 1/1，應為元旦誤植",
-          "kind": "holiday"
+          "topic": "單元六：零售業訂單資料案例",
+          "detail": "6-3 視覺化圖表案例討論／6-4 資料說明、實作"
         },
         {
           "n": 17,
-          "topic": "課綱未列",
-          "kind": "selfstudy"
+          "topic": "單元六：零售業訂單資料案例",
+          "detail": "6-5 實作"
         },
         {
           "n": 18,
-          "topic": "課綱未列",
-          "kind": "selfstudy"
+          "topic": "EWANT 課程學習；不另辦考試",
+          "kind": "class",
+          "detail": "TronClass 公告優先於原課綱；完成時程未公告"
         }
       ],
-      "source": "課綱更新",
-      "updated": "2026-09"
+      "source": "課綱",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/402786/bulletin",
+      "noticeCheckedOn": "2026-10-27",
+      "notice": "9/22 公告（9/24更新）：不另辦期中、期末考；EWANT 成績80%、實體上課20%。"
+    },
+    {
+      "name": "導師時間",
+      "weekday": null,
+      "weeks": [],
+      "source": "TronClass課程清單",
+      "defaultTopic": "沒有固定課綱進度，依導師公告安排",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/395115/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     }
   ]
 }

@@ -7,12 +7,16 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 SYLLABUS = ROOT / 'syllabus.json'
-SELECTED = {
+COURSE_LABELS = {
     '外國語文（基礎德文）': '德文複習',
     '心理學實驗法': '心理學實驗法',
     '心理測驗': '心理測驗',
     '認知神經科學導論': '認知神經科學',
     '社會學': '社會學報告',
+    '人格心理學': '人格心理學',
+    'TRX 懸吊訓練': '體育：TRX 懸吊訓練',
+    '人生哲學（上）': '人生哲學',
+    'AI時代的AI心理學應用': 'AI 時代的心理學應用',
 }
 
 
@@ -26,21 +30,30 @@ def build(today, now, syllabus_path=SYLLABUS):
     rows = syllabus['courses']
     if isinstance(rows, dict):
         rows = rows.values()
-    for original, label in SELECTED.items():
-        course = next(c for c in rows if c['name'] == original)
+    # 修課清單由資料檔決定，與首頁的網站入口連結分開。
+    for course in rows:
+        label = COURSE_LABELS.get(course['name'], course['name'])
         item = next((w for w in course['weeks'] if w['n'] == week), None)
-        lesson_date = start + timedelta(weeks=week - 1, days=course['weekday'] - 1)
+        weekday = course.get('weekday')
+        lesson_date = start + timedelta(weeks=week - 1, days=weekday - 1) if weekday else None
         courses.append({
-            'name': label, 'date': lesson_date.isoformat() if 1 <= week <= total else None,
-            'topic': item['topic'] if item else '本週沒有已知課綱進度',
+            'name': label, 'date': lesson_date.isoformat() if lesson_date and 1 <= week <= total else None,
+            'topic': item['topic'] if item else course.get('defaultTopic', '本週沒有已知課綱進度'),
             'detail': item.get('detail', '') if item else '',
             'source': '課堂更新' if course.get('source') == '交接檔' else '課綱進度',
             'sourceUpdated': course.get('updated', ''),
+            'notice': course.get('notice', ''),
+            'noticeUrl': course.get('noticeUrl', ''),
+            'noticeCheckedOn': course.get('noticeCheckedOn', ''),
         })
-    events = sorted(assessments['events'], key=lambda e: (e['date'], e.get('time', '')))
+    events = sorted(assessments['events'], key=lambda e: (e.get('date') or '9999-12-31', e.get('time', '')))
+    course_names = {c['name'] for c in courses}
     for event in events:
-        assert event['course'] in SELECTED.values()
-        date.fromisoformat(event['date'])
+        assert event['course'] in course_names, event['course']
+        if event.get('date'):
+            date.fromisoformat(event['date'])
+        else:
+            assert event.get('timingNote'), '未定日期必須有明確說明'
     return {
         'generatedAt': now.isoformat(timespec='minutes'), 'asOf': today.isoformat(),
         'timezone': 'Asia/Taipei', 'week': week, 'totalWeeks': total,

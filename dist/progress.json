@@ -1,50 +1,131 @@
 {
-  "generatedAt": "2026-10-22T02:04+08:00",
-  "asOf": "2026-10-22",
+  "generatedAt": "2026-10-27T18:59+08:00",
+  "asOf": "2026-10-27",
   "timezone": "Asia/Taipei",
-  "week": 6,
+  "week": 7,
   "totalWeeks": 18,
-  "verifiedOn": "2026-10-14",
+  "verifiedOn": "2026-10-27",
   "courses": [
     {
       "name": "德文複習",
-      "date": "2026-10-20",
+      "date": "2026-10-27",
       "topic": "我的家庭",
       "detail": "Lektion 2",
       "source": "課綱進度",
-      "sourceUpdated": ""
+      "sourceUpdated": "",
+      "notice": "",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/402456/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     },
     {
       "name": "心理學實驗法",
-      "date": "2026-10-19",
-      "topic": "Ch6 Ch7",
+      "date": "2026-10-26",
+      "topic": "光復節補假",
       "detail": "",
       "source": "課綱進度",
-      "sourceUpdated": "2026-09"
+      "sourceUpdated": "2026-09",
+      "notice": "",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389817/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     },
     {
       "name": "心理測驗",
-      "date": "2026-10-23",
-      "topic": "信度",
-      "detail": "理解測驗 II",
+      "date": "2026-10-30",
+      "topic": "信度 II ＆ 測量效度",
+      "detail": "颱風後進度有調整，公告附圖未能讀取，本項仍列原課綱待核對",
       "source": "課綱進度",
-      "sourceUpdated": "2026-09"
+      "sourceUpdated": "2026-09",
+      "notice": "10/23 課程與理解測驗因颱風順延。公告寫「下週五(11/30)」日期矛盾，待確認；期中考維持原日期。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     },
     {
       "name": "認知神經科學",
-      "date": "2026-10-22",
-      "topic": "07_The seeing brain",
+      "date": "2026-10-29",
+      "topic": "08_The hearing brain",
       "detail": "非同步",
       "source": "課堂更新",
-      "sourceUpdated": "2026-10-21"
+      "sourceUpdated": "2026-10-21",
+      "notice": "",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     },
     {
       "name": "社會學報告",
-      "date": "2026-10-21",
-      "topic": "第九、十章",
+      "date": "2026-10-28",
+      "topic": "第十一、十二章",
       "detail": "",
       "source": "課綱進度",
-      "sourceUpdated": "2026-09"
+      "sourceUpdated": "2026-09",
+      "notice": "10/7 公告：期中報告 4,000–5,000 字，11/17 截止；未公告精確時刻。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389814/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "人格心理學",
+      "date": "2026-10-27",
+      "topic": "特質論",
+      "detail": "",
+      "source": "課綱進度",
+      "sourceUpdated": "2026-09-14",
+      "notice": "公告目前只有分組名單提醒；考試日期仍依 9/15 版課綱，範圍待老師確認。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/395112/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "體育：TRX 懸吊訓練",
+      "date": "2026-10-26",
+      "topic": "光復節補假",
+      "detail": "",
+      "source": "課綱進度",
+      "sourceUpdated": "2026-09-30",
+      "notice": "公告規範列期中、期末各 20%；未列確切日期。自主學習第17、18週作業未交視同該週曠課。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/391296/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "人生哲學",
+      "date": "2026-10-26",
+      "topic": "台灣光復日補假",
+      "detail": "",
+      "source": "課綱進度",
+      "sourceUpdated": "2026-09-30",
+      "notice": "10/15 公告為擬案：短片與二行詩可選擇參與，另有替代彈性作業待命題；不視為所有人的硬性繳交要求。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/391806/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "AI 時代的心理學應用",
+      "date": "2026-10-29",
+      "topic": "AI 影響與展望",
+      "detail": "含 Agentic AI",
+      "source": "課綱進度",
+      "sourceUpdated": "2026-09",
+      "notice": "10/17 起互評改為每人評兩份作業；10/21 公告要求圖文合併單一檔案，一次繳交。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389808/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "電腦應用",
+      "date": "2026-10-27",
+      "topic": "單元三：量化資料蒐集與分析",
+      "detail": "3-2 視覺化圖表案例探討／3-3 視覺化圖表案例實作",
+      "source": "課綱進度",
+      "sourceUpdated": "",
+      "notice": "9/22 公告（9/24更新）：不另辦期中、期末考；EWANT 成績80%、實體上課20%。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/402786/bulletin",
+      "noticeCheckedOn": "2026-10-27"
+    },
+    {
+      "name": "導師時間",
+      "date": null,
+      "topic": "沒有固定課綱進度，依導師公告安排",
+      "detail": "",
+      "source": "課綱進度",
+      "sourceUpdated": "",
+      "notice": "",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/395115/bulletin",
+      "noticeCheckedOn": "2026-10-27"
     }
   ],
   "events": [
@@ -54,13 +135,6 @@
       "course": "認知神經科學",
       "title": "實體複習測驗",
       "detail": "Ch2–4"
-    },
-    {
-      "date": "2026-10-23",
-      "course": "心理測驗",
-      "title": "理解測驗 II",
-      "detail": "課堂摘要列第五、六章；尚待老師公告核對",
-      "source": "psychtest-review/CLAUDE.md 2026-10-21 更新；10/16 Plaud 作業摘要，完整逐字稿只讀到預告範圍與公告已發布，未見章號原句"
     },
     {
       "date": "2026-10-29",
@@ -82,6 +156,13 @@
       "detail": "Lektion 1–2；日期依課綱週次換算"
     },
     {
+      "date": "2026-11-03",
+      "course": "人格心理學",
+      "title": "期中考",
+      "detail": "占30%；依9/15課綱。公告未見改期，範圍與題型待老師確認",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
       "date": "2026-11-05",
       "course": "認知神經科學",
       "title": "期中考",
@@ -89,22 +170,27 @@
       "source": "cogneuro-review/CLAUDE.md：2026-10-21 hai 確認範圍；10/15 課堂逐字稿 00:08:48（未核聽）"
     },
     {
-      "date": "2026-11-06",
-      "course": "心理測驗",
-      "title": "理解測驗 III",
-      "detail": "範圍待當週說明確認"
+      "date": "2026-11-05",
+      "course": "AI 時代的心理學應用",
+      "title": "期中筆試＋專案1代表發表",
+      "detail": "依課綱與10/14期程核對；個人繳交、互評期限另列待確認",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
     },
     {
-      "date": "2026-11-13",
-      "course": "心理測驗",
-      "title": "作業 I",
-      "detail": "試題分析；依課綱安排"
+      "date": "2026-11-15",
+      "time": "12:00",
+      "course": "人生哲學",
+      "title": "短片＋二行詩競賽截止（選擇參與者）",
+      "detail": "9/28修訂辦法；10/15公告提出可改做其他彈性作業，替代題目待公布",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
     },
     {
       "date": "2026-11-17",
       "course": "社會學報告",
       "title": "期中書面報告",
-      "detail": "4,000–5,000 字；截止時刻未公告"
+      "detail": "4,000–5,000 字；截止時刻未公告",
+      "source": "TronClass 10/7 11:47 公告，10/27 實讀確認",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389814/bulletin"
     },
     {
       "date": "2026-11-20",
@@ -125,6 +211,14 @@
       "detail": "書面截止尚待確認"
     },
     {
+      "date": "2026-12-25",
+      "time": "12:00",
+      "course": "人格心理學",
+      "title": "個人人格理論書面報告截止",
+      "detail": "依9/15版課綱；與分組分享分開",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
       "date": "2026-12-28",
       "course": "心理學實驗法",
       "title": "期末考",
@@ -137,6 +231,13 @@
       "detail": "Lektion 2–3；日期依課綱週次換算"
     },
     {
+      "date": "2026-12-29",
+      "course": "人格心理學",
+      "title": "期末考",
+      "detail": "依課綱，含個人人格理論",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
       "date": "2026-12-30",
       "course": "社會學報告",
       "title": "期末筆試",
@@ -147,6 +248,74 @@
       "course": "認知神經科學",
       "title": "期末考",
       "detail": "依課綱"
+    },
+    {
+      "date": "2026-12-31",
+      "course": "AI 時代的心理學應用",
+      "title": "期末考",
+      "detail": "依課綱；筆試＋上機，範圍待確認",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": null,
+      "course": "心理測驗",
+      "title": "理解測驗 II（颱風順延）",
+      "detail": "已確認範圍：第五章量尺轉換與常模＋第六章信度。延期公告附圖未能載入。",
+      "source": "TronClass 10/16 11:53 範圍公告、10/23 08:38 延期公告",
+      "originalDate": "2026-10-23",
+      "status": "postponed",
+      "timingNote": "公告寫下週五，但括號列 11/30，日期矛盾待老師確認",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin"
+    },
+    {
+      "date": null,
+      "course": "心理測驗",
+      "title": "理解測驗 III",
+      "detail": "原課綱日期；10/23 公告稱後續進度調整，待附圖核對，不視為已確認的新日期",
+      "originalDate": "2026-11-06",
+      "status": "needs_review",
+      "timingNote": "原課綱 11/06；颱風後進度調整，日期待公告附圖核對"
+    },
+    {
+      "date": null,
+      "course": "心理測驗",
+      "title": "作業 I",
+      "detail": "原課綱日期；10/23 公告稱後續進度調整，待附圖核對，不視為已確認的新日期",
+      "originalDate": "2026-11-13",
+      "status": "needs_review",
+      "timingNote": "原課綱 11/13；颱風後進度調整，日期待公告附圖核對"
+    },
+    {
+      "date": null,
+      "course": "體育：TRX 懸吊訓練",
+      "title": "期中測驗",
+      "timingNote": "課綱列第8週；確切日期待老師確認",
+      "detail": "TronClass課程規範：占20%，未列日期",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": null,
+      "course": "體育：TRX 懸吊訓練",
+      "title": "期末測驗",
+      "timingNote": "課綱列第16週；確切日期待老師確認",
+      "detail": "TronClass課程規範：占20%，未列日期",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": null,
+      "course": "AI 時代的心理學應用",
+      "title": "專案1個人繳交與互評",
+      "timingNote": "確切截止時間尚未核對",
+      "detail": "不把11/5代表發表日當成個人繳交截止日；作業合併一檔，每人互評兩份",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": null,
+      "course": "人生哲學",
+      "title": "替代彈性學習作業",
+      "timingNote": "題目與日期待老師公告",
+      "detail": "10/15公告為更改作業規定之擬案，不能當作已完成的正式變更",
+      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
     }
   ]
 }

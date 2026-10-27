@@ -16,9 +16,14 @@
     const li = document.createElement('li');
     const top = element('div','', 'row-top');
     top.append(element('strong',event.course));
-    const days = Math.round((Date.parse(event.date+'T00:00:00+08:00') - Date.parse(today+'T00:00:00+08:00')) / 86400000);
-    top.append(element('span', days === 0 ? '今天' : days === 1 ? '明天' : `還有 ${days} 天`, days < 8 ? 'countdown' : ''));
-    li.append(top, element('p', `${dateLabel(event.date)}${event.time ? ' '+event.time : ''} · ${event.title}`));
+    if (event.date) {
+      const days = Math.round((Date.parse(event.date+'T00:00:00+08:00') - Date.parse(today+'T00:00:00+08:00')) / 86400000);
+      top.append(element('span', days === 0 ? '今天' : days === 1 ? '明天' : `還有 ${days} 天`, days < 8 ? 'countdown' : ''));
+      li.append(top, element('p', `${dateLabel(event.date)}${event.time ? ' '+event.time : ''} · ${event.title}`));
+    } else {
+      top.append(element('span', event.status === 'postponed' ? '已順延' : '日期待確認'));
+      li.append(top, element('p',event.title), element('small',event.timingNote));
+    }
     if (event.detail) li.append(element('small',event.detail));
     return li;
   }
@@ -37,13 +42,23 @@
         top.append(element('strong',course.name),element('span',course.date ? dateLabel(course.date) : ''));
         li.append(top,element('p',course.topic));
         if (course.detail) li.append(element('small',course.detail));
+        if (course.notice) li.append(element('small',course.notice,'course-notice'));
+        if (course.noticeUrl) {
+          const source = element('a','查看公告','source-link');
+          source.href = course.noticeUrl;
+          li.append(source);
+        }
         return li;
       }));
-      const upcoming = data.events.filter(event => event.date >= today);
+      const upcoming = data.events.filter(event => event.date && event.date >= today);
+      const pending = data.events.filter(event => !event.date);
       $('upcoming-events').replaceChildren(...upcoming.slice(0,5).map(event=>eventRow(event,today)));
       if (!upcoming.length) $('upcoming-events').append(element('li','目前沒有已知的後續評量日期。'));
       $('later-events').replaceChildren(...upcoming.slice(5).map(event=>eventRow(event,today)));
       $('more-events').hidden = upcoming.length <= 5;
+      $('pending-events').replaceChildren(...pending.map(event=>eventRow(event,today)));
+      $('pending-block').hidden = !pending.length;
+      $('pending-label').textContent = `日期待確認（${pending.length}）`;
       $('progress-note').textContent = `依課綱與已核對公告整理，評量資料核對至 ${dateLabel(data.verifiedOn)}。${data.asOf < today ? '資料尚未更新至今天。' : ''}`;
     } catch (error) {
       $('update-time').textContent = '進度暫時無法載入';

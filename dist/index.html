@@ -48,6 +48,8 @@
     .row-top span { color:var(--muted); font-size:12px; white-space:nowrap; }
     .progress-list p { margin:6px 0 0; font-size:14px; line-height:1.7; }
     .progress-list small { display:block; color:var(--muted); font-size:12px; margin-top:5px; line-height:1.6; }
+    .source-link { display:inline-block; margin-top:6px; font-size:12px; color:var(--green); text-underline-offset:3px; }
+    .course-notice { border-left:2px solid #dfe1d5; padding-left:9px; }
     .countdown { color:#9a593a !important; }
     .progress-note { color:var(--muted); font-size:12px; line-height:1.7; margin:14px 0 0; }
     details { margin-top:10px; font-size:13px; }
@@ -101,7 +103,7 @@
       <div class="progress-heading"><h2 id="progress-title">課程與考試進度</h2><span class="update-time" id="update-time">載入中</span></div>
       <div class="progress-columns">
         <div class="progress-panel"><h3 id="week-label">本週課程</h3><ul class="progress-list" id="course-progress"></ul></div>
-        <div class="progress-panel"><h3>接下來的考試與作業</h3><ul class="progress-list" id="upcoming-events"></ul><details id="more-events" hidden><summary>查看後續日期</summary><ul class="progress-list" id="later-events"></ul></details></div>
+        <div class="progress-panel"><h3>接下來的考試與作業</h3><ul class="progress-list" id="upcoming-events"></ul><details id="more-events" hidden><summary>查看後續日期</summary><ul class="progress-list" id="later-events"></ul></details><details id="pending-block" hidden><summary id="pending-label">日期待確認</summary><ul class="progress-list" id="pending-events"></ul></details></div>
       </div>
       <p class="progress-note" id="progress-note"></p>
     </section>
