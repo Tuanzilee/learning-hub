@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T19:04+08:00",
-  "asOf": "2026-10-27",
+  "generatedAt": "2026-10-30T02:04+08:00",
+  "asOf": "2026-10-30",
   "timezone": "Asia/Taipei",
   "week": 7,
   "totalWeeks": 18,
-  "verifiedOn": "2026-10-27",
+  "verifiedOn": "2026-10-30",
   "courses": [
     {
       "name": "德文複習",
@@ -46,9 +46,9 @@
       "detail": "非同步",
       "source": "課堂更新",
       "sourceUpdated": "2026-10-21",
-      "notice": "",
+      "notice": "10/29正式公告：11/5期中09:10–11:10，進修部801、804；Ch01、02、03、04、05、07、08，選擇題＋申論題，依座位表入座。",
       "noticeUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin",
-      "noticeCheckedOn": "2026-10-27"
+      "noticeCheckedOn": "2026-10-30"
     },
     {
       "name": "社會學報告",
@@ -173,17 +173,19 @@
     },
     {
       "date": "2026-11-05",
-      "course": "認知神經科學",
-      "title": "期中考",
-      "detail": "範圍至 Ch8 聽覺（10/21 已確認）；含申論題，演講是否納入待確認",
-      "source": "cogneuro-review/CLAUDE.md：2026-10-21 hai 確認範圍；10/15 課堂逐字稿 00:08:48（未核聽）"
-    },
-    {
-      "date": "2026-11-05",
       "course": "AI 時代的心理學應用",
       "title": "期中筆試＋專案1代表發表",
       "detail": "依課綱與10/14期程核對；個人繳交、互評期限另列待確認",
       "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": "2026-11-05",
+      "course": "認知神經科學",
+      "title": "期中考",
+      "time": "09:10",
+      "detail": "Ch01、02、03、04、05、07、08；選擇題＋申論題；09:10–11:10，進修部801、804，依座位表入座",
+      "source": "TronClass 2026-10-29 08:39期中考公告；2026-10-30實讀確認",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin"
     },
     {
       "date": "2026-11-15",
