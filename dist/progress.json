@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T02:04+08:00",
-  "asOf": "2026-10-30",
+  "generatedAt": "2026-10-31T01:59+08:00",
+  "asOf": "2026-10-31",
   "timezone": "Asia/Taipei",
   "week": 7,
   "totalWeeks": 18,
-  "verifiedOn": "2026-10-30",
+  "verifiedOn": "2026-10-31",
   "courses": [
     {
       "name": "德文複習",
@@ -35,9 +35,9 @@
       "detail": "10/30理解測驗III已確認；授課主題仍列原課綱，不作為已確認測驗範圍",
       "source": "課綱進度",
       "sourceUpdated": "2026-09",
-      "notice": "10/30理解測驗III、11/20期中考（10/27已確認）。其他受颱風影響的進度仍待核對。",
+      "notice": "10/30公告：本次理解測驗分數不納入計分，未公告補考或替代安排。11/20期中考（10/27已確認）；其他受颱風影響的進度仍待核對。",
       "noticeUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin",
-      "noticeCheckedOn": "2026-10-27"
+      "noticeCheckedOn": "2026-10-31"
     },
     {
       "name": "認知神經科學",
@@ -147,10 +147,11 @@
       "date": "2026-10-30",
       "course": "心理測驗",
       "title": "理解測驗 III",
-      "detail": "10/27已確認日期與測驗序號；範圍尚未提供",
+      "detail": "10/30公告：本次理解測驗分數不納入計分；未公告補考或替代安排",
       "originalDate": "2026-11-06",
-      "status": "confirmed",
-      "source": "hai於本對話2026-10-27確認：10/30理解測驗三"
+      "status": "not_counted",
+      "source": "hai於本對話2026-10-27確認日期與序號；TronClass 10/30 14:06公告本次分數不納入計分，10/31實讀",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin"
     },
     {
       "date": "2026-11-02",
