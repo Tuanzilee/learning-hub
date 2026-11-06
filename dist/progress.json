@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T13:44+08:00",
-  "asOf": "2026-11-06",
+  "generatedAt": "2026-11-07T02:00+08:00",
+  "asOf": "2026-11-07",
   "timezone": "Asia/Taipei",
   "week": 8,
   "totalWeeks": 18,
-  "verifiedOn": "2026-11-06",
+  "verifiedOn": "2026-11-07",
   "courses": [
     {
       "name": "德文複習",
@@ -35,9 +35,9 @@
       "detail": "原課綱理解測驗III已改依10/27確認安排於10/30；本週授課進度待核對",
       "source": "課綱進度",
       "sourceUpdated": "2026-09",
-      "notice": "11/13理解測驗III（筆試），11/6已確認；10/30那次不計分。11/20期中考（10/27已確認）；作業I期限仍待確認。",
+      "notice": "11/6公告：11/13理解測驗範圍為信度與測量效度Ch6–8，當天攜帶已安裝JASP的設備。10/30那次不計分，11/20期中考不變；作業I期限仍待確認。",
       "noticeUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin",
-      "noticeCheckedOn": "2026-10-31"
+      "noticeCheckedOn": "2026-11-07"
     },
     {
       "name": "認知神經科學",
@@ -192,9 +192,10 @@
       "date": "2026-11-13",
       "course": "心理測驗",
       "title": "理解測驗 III（筆試）",
-      "detail": "11/6已確認下週五進行；範圍與精確時刻尚未提供",
+      "detail": "信度與測量效度（Ch6–8）；當天須攜帶可操作JASP的設備並事先安裝，以學習信效度與試題分析；筆試精確時刻未提供",
       "status": "confirmed",
-      "source": "hai於本對話2026-11-06確認：下週理解測驗III（筆試）"
+      "source": "hai於本對話2026-11-06確認筆試；TronClass 11/6 16:57確認11/13範圍Ch6–8、17:00提醒攜帶已安裝JASP的設備；11/7實讀",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin"
     },
     {
       "date": "2026-11-15",
