@@ -37,6 +37,8 @@ def build(today, now, syllabus_path=SYLLABUS):
         weekday = course.get('weekday')
         lesson_date = start + timedelta(weeks=week - 1, days=weekday - 1) if weekday else None
         courses.append({
+            'weekday': weekday, 'weeks': course['weeks'],
+            'defaultTopic': course.get('defaultTopic', '本週沒有已知課綱進度'),
             'name': label, 'date': lesson_date.isoformat() if lesson_date and 1 <= week <= total else None,
             'topic': item['topic'] if item else course.get('defaultTopic', '本週沒有已知課綱進度'),
             'detail': item.get('detail', '') if item else '',
@@ -57,6 +59,7 @@ def build(today, now, syllabus_path=SYLLABUS):
     return {
         'generatedAt': now.isoformat(timespec='minutes'), 'asOf': today.isoformat(),
         'timezone': 'Asia/Taipei', 'week': week, 'totalWeeks': total,
+        'week1Monday': start.isoformat(),
         'verifiedOn': assessments['verifiedOn'], 'courses': courses,
         'events': events,
     }
