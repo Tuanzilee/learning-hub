@@ -203,8 +203,58 @@
       "timingNote": "題目與日期待老師公告",
       "detail": "10/15公告為更改作業規定之擬案，不能當作已完成的正式變更",
       "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "course": "認知神經科學",
+      "title": "Ch09 關鍵字截止",
+      "detail": "Keywords_Ch09_The attending brain",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "23:59",
+      "course": "認知神經科學",
+      "title": "Ch09 非同步討論與整理作業截止",
+      "detail": "分組討論與討論整理作業皆於此時截止；整理作業平台標題另寫 The remembering brain，章名不一致待確認",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "08:00",
+      "course": "認知神經科學",
+      "title": "Ch11 關鍵字截止",
+      "detail": "Keywords_Ch11",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "course": "認知神經科學",
+      "title": "Ch11 隨堂測驗與課後反思截止",
+      "detail": "隨堂測驗 Ch11_01–04 與課後反思皆於此時截止",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "23:59",
+      "course": "認知神經科學",
+      "title": "Ch13 非同步討論與整理作業截止",
+      "detail": "Ch13 The literate brain：討論與整理作業皆於此時截止",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
     }
   ],
-  "supplementedOn": "2026-11-07",
-  "supplementNote": "11/6經已登入Chrome實讀最新公告，補入人哲無期中考與AI討論／互評安排，保留心測10/30不計分、11/20期中及認知正式期中資訊；相對期限未核平台欄位，不自行推定日期時刻或完成狀態。"
+  "supplementedOn": "2026-11-11",
+  "supplementNote": "11/11實讀認知課程內容頁，補入Ch09、Ch11、Ch13共同活動截止；未將平台週次標籤視為實體上課日期變更。之後Mac鎖定，未完成其他課程最新公告核對，整體verifiedOn維持原值。"
 }

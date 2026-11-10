@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T18:50+08:00",
-  "asOf": "2026-11-09",
+  "generatedAt": "2026-11-11T03:31+08:00",
+  "asOf": "2026-11-11",
   "timezone": "Asia/Taipei",
   "week": 9,
   "totalWeeks": 18,
@@ -1094,6 +1094,16 @@
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin"
     },
     {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "course": "認知神經科學",
+      "title": "Ch09 關鍵字截止",
+      "detail": "Keywords_Ch09_The attending brain",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
       "date": "2026-11-13",
       "course": "心理測驗",
       "title": "理解測驗 III（筆試）",
@@ -1119,11 +1129,51 @@
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389814/bulletin"
     },
     {
+      "date": "2026-11-17",
+      "time": "23:59",
+      "course": "認知神經科學",
+      "title": "Ch09 非同步討論與整理作業截止",
+      "detail": "分組討論與討論整理作業皆於此時截止；整理作業平台標題另寫 The remembering brain，章名不一致待確認",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "08:00",
+      "course": "認知神經科學",
+      "title": "Ch11 關鍵字截止",
+      "detail": "Keywords_Ch11",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "course": "認知神經科學",
+      "title": "Ch11 隨堂測驗與課後反思截止",
+      "detail": "隨堂測驗 Ch11_01–04 與課後反思皆於此時截止",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
+    },
+    {
       "date": "2026-11-20",
       "course": "心理測驗",
       "title": "期中筆試",
       "detail": "11/20日期已於10/27確認；占學期成績30%",
       "source": "hai於本對話2026-10-27確認；教師課綱與10/23公告期中維持不變"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "23:59",
+      "course": "認知神經科學",
+      "title": "Ch13 非同步討論與整理作業截止",
+      "detail": "Ch13 The literate brain：討論與整理作業皆於此時截止",
+      "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
+      "verifiedOn": "2026-11-11"
     },
     {
       "date": "2026-12-11",
