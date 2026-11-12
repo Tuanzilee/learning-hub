@@ -182,19 +182,23 @@
     {
       "date": null,
       "course": "AI 時代的心理學應用",
-      "title": "專案1個人繳交與互評",
-      "timingNote": "11/4公告互評延長至「明日晚上」；未列確切時刻，待平台截止欄位確認",
-      "detail": "社群內彼此分享檔案，閱讀後至TronClass進行社群內互評；不把代表發表日視為繳交期限，不標示個人完成狀態",
+      "title": "專案1個人繳交",
+      "timingNote": "互評期限已另核對為11/5 23:59；個人繳交的精確期限仍待確認",
+      "detail": "11/4公告要求社群內彼此分享檔案後至TronClass互評；不將互評截止直接當作個人繳交截止，不標示個人完成狀態",
       "source": "TronClass 2026-11-04 13:09公告；2026-11-06實讀確認",
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/bulletin"
     },
     {
-      "date": "2026-11-15",
-      "time": "12:00",
       "course": "人生哲學",
       "title": "短片＋二行詩競賽截止（選擇參與者）",
-      "detail": "9/28修訂辦法；10/15公告提出可改做其他彈性作業，替代題目待公布",
-      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
+      "detail": "參賽者送件後須收到主辦單位確認報名成功；11/17課內小組回報不等於競賽送件延期",
+      "source": "TronClass 2026-11-12 09:38公告，2026-11-13實讀；新版辦法全文未核對",
+      "originalDate": "2026-11-15",
+      "date": null,
+      "status": "needs_review",
+      "timingNote": "舊版列11/15 12:00；11/12老師要求改依新版競賽辦法，指定外站未能讀取，截止日待核對",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/391806/bulletin",
+      "verifiedOn": "2026-11-13"
     },
     {
       "date": null,
@@ -253,8 +257,37 @@
       "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
       "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "23:59",
+      "course": "AI 時代的心理學應用",
+      "title": "專案1社群內互評截止",
+      "detail": "課程活動標題明列「互評延長至11/5 23:59」；不推定個人繳交期限",
+      "source": "2026-11-13實讀TronClass課程內容頁活動標題",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/content",
+      "verifiedOn": "2026-11-13"
+    },
+    {
+      "date": "2026-12-24",
+      "course": "AI 時代的心理學應用",
+      "title": "期末專案報告",
+      "detail": "依11/12更新課程章節；精確時間與繳交期限待確認",
+      "source": "2026-11-13實讀TronClass課程內容頁12/24章節",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/content",
+      "verifiedOn": "2026-11-13"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "23:59",
+      "course": "人生哲學",
+      "title": "參賽小組課內回報截止",
+      "detail": "參加短片、二行詩競賽小組回報區；僅參賽小組，不等於競賽主辦單位送件期限",
+      "source": "2026-11-13實讀TronClass作業列表共同結束時間",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/391806/homework",
+      "verifiedOn": "2026-11-13"
     }
   ],
-  "supplementedOn": "2026-11-11",
-  "supplementNote": "11/11實讀認知課程內容頁，補入Ch09、Ch11、Ch13共同活動截止；未將平台週次標籤視為實體上課日期變更。之後Mac鎖定，未完成其他課程最新公告核對，整體verifiedOn維持原值。"
+  "supplementedOn": "2026-11-13",
+  "supplementNote": "11/13實讀全課程最新公告第一頁（已涵蓋上次核對後新公告）、心測公告、AI課程內容與人哲作業共同期限；AI授課計畫附件全文與人哲新版競賽辦法仍未完成核對，整體verifiedOn維持原值。"
 }

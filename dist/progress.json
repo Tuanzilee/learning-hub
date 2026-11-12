@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T03:31+08:00",
-  "asOf": "2026-11-11",
+  "generatedAt": "2026-11-13T02:06+08:00",
+  "asOf": "2026-11-13",
   "timezone": "Asia/Taipei",
   "week": 9,
   "totalWeeks": 18,
@@ -804,9 +804,9 @@
       "detail": "1. 婚姻與家庭的意義　2. 婚姻、家庭價值的混淆所產生的危機　3. 婚姻生活的經營，家人相處的智慧　4. 重視性別議題在婚姻建構中的重要性",
       "source": "課綱進度",
       "sourceUpdated": "2026-09-30",
-      "notice": "11/1公告：人哲沒有期中考，11/2於13:40開始上課一小時。10/15替代彈性作業仍待命題；短片與二行詩可選擇參與。",
+      "notice": "11/12公告要求競賽以新版辦法為準，送件須收到主辦確認；指定外站未能讀取，競賽送件截止待新版確認。平台另列參賽小組回報11/17 23:59，與主辦送件不同。人哲沒有期中考；替代彈性作業題目仍待確認。",
       "noticeUrl": "https://elearn2.fju.edu.tw/course/391806/bulletin",
-      "noticeCheckedOn": "2026-11-06"
+      "noticeCheckedOn": "2026-11-13"
     },
     {
       "weekday": 4,
@@ -854,34 +854,38 @@
         },
         {
           "n": 9,
-          "topic": "AI Python for Beginner (1)",
-          "detail": "同步 Teams，Colab 實作"
+          "topic": "認識學生報告：融入研究要素與論文",
+          "detail": "依11/12更新的TronClass章節日期；預定進度，不代表已授課。"
         },
         {
           "n": 10,
-          "topic": "AI Python for Beginner (2)"
+          "topic": "認識質性研究與 AI 可能影響與改變",
+          "detail": "依11/12更新的TronClass章節日期；預定進度，不代表已授課。"
         },
         {
           "n": 11,
-          "topic": "AI Python for Beginner (3)"
+          "topic": "認識心理測驗與 AI 可能影響與改變",
+          "detail": "依11/12更新的TronClass章節日期；預定進度，不代表已授課。"
         },
         {
           "n": 12,
-          "topic": "AI Python for Beginner (4)"
+          "topic": "AI Python 與量化分析輔助",
+          "detail": "平台合列12/3–12/17，不自行拆分每週Python與量化分析的子題。"
         },
         {
           "n": 13,
-          "topic": "認識 AI 輔助量化研究入門"
+          "topic": "AI Python 與量化分析輔助",
+          "detail": "平台合列12/3–12/17，不自行拆分每週Python與量化分析的子題。"
         },
         {
           "n": 14,
-          "topic": "認識 AI 輔助質性研究入門",
-          "detail": "心理×AI 研究觀摩：教師研究團隊分享"
+          "topic": "AI Python 與量化分析輔助",
+          "detail": "平台合列12/3–12/17，不自行拆分每週Python與量化分析的子題。"
         },
         {
           "n": 15,
-          "topic": "心理×AI 研究觀摩：自主學習專案 2",
-          "detail": "ES801 面授"
+          "topic": "期末專案報告",
+          "detail": "依11/12更新的TronClass章節日期；預定進度，不代表已授課。"
         },
         {
           "n": 16,
@@ -903,13 +907,13 @@
       "defaultTopic": "本週沒有已知課綱進度",
       "name": "AI 時代的心理學應用",
       "date": "2026-11-12",
-      "topic": "AI Python for Beginner (1)",
-      "detail": "同步 Teams，Colab 實作",
+      "topic": "認識學生報告：融入研究要素與論文",
+      "detail": "依11/12更新的TronClass章節日期；預定進度，不代表已授課。",
       "source": "課綱進度",
-      "sourceUpdated": "2026-09",
-      "notice": "11/5公告：期中考暫停討論一週。11/4公告：社群內彼此分享檔案，閱讀後至TronClass互評；期限只寫「明日晚上」，精確截止時間待確認。作業仍須圖文合併一檔。",
-      "noticeUrl": "https://elearn2.fju.edu.tw/course/389808/bulletin",
-      "noticeCheckedOn": "2026-11-06"
+      "sourceUpdated": "2026-11-12",
+      "notice": "11/13實讀課程內容頁：11/12學生報告、11/19質性研究、11/26心理測驗，12/3–12/17 AI Python與量化分析，12/24期末專案報告，12/31筆試＋上機。平台列11/12授課計畫1.4.1版，附件全文尚未核對。期中專案活動標題明列互評延至11/5 23:59；個人繳交期限仍待確認。",
+      "noticeUrl": "https://elearn2.fju.edu.tw/course/389808/content",
+      "noticeCheckedOn": "2026-11-13"
     },
     {
       "weekday": 2,
@@ -1094,6 +1098,16 @@
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/bulletin"
     },
     {
+      "date": "2026-11-05",
+      "time": "23:59",
+      "course": "AI 時代的心理學應用",
+      "title": "專案1社群內互評截止",
+      "detail": "課程活動標題明列「互評延長至11/5 23:59」；不推定個人繳交期限",
+      "source": "2026-11-13實讀TronClass課程內容頁活動標題",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/content",
+      "verifiedOn": "2026-11-13"
+    },
+    {
       "date": "2026-11-12",
       "time": "08:00",
       "course": "認知神經科學",
@@ -1113,14 +1127,6 @@
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389811/bulletin"
     },
     {
-      "date": "2026-11-15",
-      "time": "12:00",
-      "course": "人生哲學",
-      "title": "短片＋二行詩競賽截止（選擇參與者）",
-      "detail": "9/28修訂辦法；10/15公告提出可改做其他彈性作業，替代題目待公布",
-      "source": "本機正式課綱與2026-10-14期程核對；2026-10-27核對TronClass公告補充"
-    },
-    {
       "date": "2026-11-17",
       "course": "社會學報告",
       "title": "期中書面報告",
@@ -1137,6 +1143,16 @@
       "source": "2026-11-11 實讀 TronClass 課程內容頁的活動截止欄位；僅核對課程共同期限，不記錄個人作答或繳交狀態",
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389805/content#/",
       "verifiedOn": "2026-11-11"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "23:59",
+      "course": "人生哲學",
+      "title": "參賽小組課內回報截止",
+      "detail": "參加短片、二行詩競賽小組回報區；僅參賽小組，不等於競賽主辦單位送件期限",
+      "source": "2026-11-13實讀TronClass作業列表共同結束時間",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/391806/homework",
+      "verifiedOn": "2026-11-13"
     },
     {
       "date": "2026-11-19",
@@ -1186,6 +1202,15 @@
       "course": "心理測驗",
       "title": "小組實作口頭報告 II",
       "detail": "書面截止尚待確認"
+    },
+    {
+      "date": "2026-12-24",
+      "course": "AI 時代的心理學應用",
+      "title": "期末專案報告",
+      "detail": "依11/12更新課程章節；精確時間與繳交期限待確認",
+      "source": "2026-11-13實讀TronClass課程內容頁12/24章節",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/content",
+      "verifiedOn": "2026-11-13"
     },
     {
       "date": "2026-12-25",
@@ -1272,11 +1297,23 @@
     {
       "date": null,
       "course": "AI 時代的心理學應用",
-      "title": "專案1個人繳交與互評",
-      "timingNote": "11/4公告互評延長至「明日晚上」；未列確切時刻，待平台截止欄位確認",
-      "detail": "社群內彼此分享檔案，閱讀後至TronClass進行社群內互評；不把代表發表日視為繳交期限，不標示個人完成狀態",
+      "title": "專案1個人繳交",
+      "timingNote": "互評期限已另核對為11/5 23:59；個人繳交的精確期限仍待確認",
+      "detail": "11/4公告要求社群內彼此分享檔案後至TronClass互評；不將互評截止直接當作個人繳交截止，不標示個人完成狀態",
       "source": "TronClass 2026-11-04 13:09公告；2026-11-06實讀確認",
       "sourceUrl": "https://elearn2.fju.edu.tw/course/389808/bulletin"
+    },
+    {
+      "course": "人生哲學",
+      "title": "短片＋二行詩競賽截止（選擇參與者）",
+      "detail": "參賽者送件後須收到主辦單位確認報名成功；11/17課內小組回報不等於競賽送件延期",
+      "source": "TronClass 2026-11-12 09:38公告，2026-11-13實讀；新版辦法全文未核對",
+      "originalDate": "2026-11-15",
+      "date": null,
+      "status": "needs_review",
+      "timingNote": "舊版列11/15 12:00；11/12老師要求改依新版競賽辦法，指定外站未能讀取，截止日待核對",
+      "sourceUrl": "https://elearn2.fju.edu.tw/course/391806/bulletin",
+      "verifiedOn": "2026-11-13"
     },
     {
       "date": null,
